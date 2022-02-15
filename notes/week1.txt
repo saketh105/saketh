@@ -1,0 +1,4 @@
+Should've returned instead of printing.
+Expected bash commands for the final question
+
+hw: 75
