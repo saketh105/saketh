@@ -1,0 +1,5 @@
+Lab is missing!
+Means graph should've been plotted together!
+
+lab: 0
+hw: 90
