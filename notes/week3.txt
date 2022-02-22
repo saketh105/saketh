@@ -1,0 +1,7 @@
+In homework, many cells returned incorrect results. 
+Make sure you dont have any errors in the ipynb file that you submit!
+
+In lab, fastest flight meant flight with least air time, not highest speed. 
+
+hw: 70
+lab: 90
