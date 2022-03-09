@@ -1,5 +1,5 @@
-HW file not found!
+Should've written a short report in HW!
 Should've explained about the plots in lab!
 
-hw: 0
+hw: 80
 lab: 80
