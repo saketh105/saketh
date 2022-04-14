@@ -1,0 +1,4 @@
+Didn't format the dates properly, duration is missing. 
+
+hw: 90
+lab: 100
