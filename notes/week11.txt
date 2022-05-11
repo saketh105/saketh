@@ -1,0 +1,9 @@
+Great!
+
+hw: 100
+lab: 100
+
+Reply to the doubt:
+When you check the type(df), it would return as list. You must convert the list back to Dataframe using pd.DataFrame() and then use rename method!
+It would work alright!
+Let me know if you have any other questions! We could schedule a meeting!
